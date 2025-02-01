@@ -1,0 +1,39 @@
+body{
+    background-color: #16404D;
+}
+
+#result{
+    font-size: 28px;
+    padding: 1rem 0 0 0;
+}
+
+#title{
+    font-size: 75px;
+    font-family: "Lobster";
+}
+
+#dice-container{
+    padding: 3rem 10rem;
+    text-align: center;
+    color: #DDA853;
+}
+
+.row{
+    padding: 3rem 10rem;
+}
+
+.btn{
+    background-color: 
+    #f8ebb6;
+    color: #16404D;
+}
+
+.btn:hover{
+    background-color: #DDA853;
+    color: #16404D;
+}
+
+#result, #one ,#two,.btn{
+    font-family: "Pacifico";
+}
+
